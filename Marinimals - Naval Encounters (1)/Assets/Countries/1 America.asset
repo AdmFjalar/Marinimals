@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2a54cb85503b75418c3e5cf2fd938d1, type: 3}
+  m_Name: 1 America
+  m_EditorClassIdentifier: 
+  Flag: {fileID: 21300000, guid: 82c5de8940965924bbd844308ae884ce, type: 3}
+  Weapon: {fileID: 21300000, guid: 5c42378735e14c4439438b4cf5c4c28e, type: 3}
+  Portrait: {fileID: 21300000, guid: 29448cb18717ba541b07ba7e2aa18ebb, type: 3}
+  Name: United States of America
+  AdmiralName: Cawlumbia
+  Attack: 10
+  Defense: 5
+  Speed: 3

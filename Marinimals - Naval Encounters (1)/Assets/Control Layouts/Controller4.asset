@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3a0ad6b9ab394542bb024a2f20dc016, type: 3}
+  m_Name: Controller4
+  m_EditorClassIdentifier: 
+  horizontal: Horizontal_P4
+  vertical: Vertical_P4
+  horizontal2: Horizontal2_P4
+  vertical2: Vertical2_P4
+  rightBumper: RightBumper_P4
+  leftBumper: LeftBumper_P4
+  rightTrigger: rt_P4
+  aButton: aButton_P4
+  bButton: bButton_P4
+  xButton: 
+  yButton: 
+  start: 
+  back: 
+  xboxButton: 

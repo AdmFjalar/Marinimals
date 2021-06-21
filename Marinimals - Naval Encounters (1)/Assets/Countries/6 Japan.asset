@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2a54cb85503b75418c3e5cf2fd938d1, type: 3}
+  m_Name: 6 Japan
+  m_EditorClassIdentifier: 
+  Flag: {fileID: 21300000, guid: c7008120529d1c94b8ee93fe1d6b5448, type: 3}
+  Weapon: {fileID: 21300000, guid: 3a818de3551444b4093ab04b0e431a3f, type: 3}
+  Portrait: {fileID: 21300000, guid: 578069f5021536047b388eb163f1bec0, type: 3}
+  Name: Empire of Japan
+  AdmiralName: Pandohito
+  Attack: 8
+  Defense: 5
+  Speed: 4

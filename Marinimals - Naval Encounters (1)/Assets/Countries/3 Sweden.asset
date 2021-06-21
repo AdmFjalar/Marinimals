@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2a54cb85503b75418c3e5cf2fd938d1, type: 3}
+  m_Name: 3 Sweden
+  m_EditorClassIdentifier: 
+  Flag: {fileID: 21300000, guid: 1718b3815885be54e9c27e0e513440fd, type: 3}
+  Weapon: {fileID: 21300000, guid: bdb3ba629e3f02c41b3d5fae8e2edde7, type: 3}
+  Portrait: {fileID: 21300000, guid: 010ad4aadbd11fe42ba2909d65930ed9, type: 3}
+  Name: Kingdom of Sweden
+  AdmiralName: Root Moose
+  Attack: 8
+  Defense: 4
+  Speed: 8
